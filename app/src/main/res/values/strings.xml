@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAutocomplete</string>
+    <string name="ACTextView_entrer_adresse">Entrez une adresse</string>
+</resources>
