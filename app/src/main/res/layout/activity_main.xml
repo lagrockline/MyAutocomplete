@@ -6,9 +6,10 @@
     tools:context=".MainActivity">
 
     <AutoCompleteTextView
-        android:id="@+id/autocompletePlaces"
-        android:hint="@string/ACTextView_entrer_adresse"
+        android:id="@+id/autoCompleteTextView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:hint="@string/ACTextView_entrer_adresse"
+        android:textColorHint="#757575" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
